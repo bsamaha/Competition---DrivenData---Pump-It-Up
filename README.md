@@ -30,4 +30,4 @@
  3. Use a KNN or some other technique to clearly define clusters of the imbalanced class 'functional_needs_repair'
 
 ##### Visualization of the Data
-![Tanzania Wells](Tanzania Wells.png)
+![Tanzania Wells](https://github.com/bsamaha/Competition---DrivenData---Pump-It-Up/blob/master/Tanzania%20Wells.png)
